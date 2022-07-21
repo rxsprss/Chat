@@ -1,0 +1,8 @@
+const firebaseConfig = {
+  apiKey: "AIzaSyConbsmvrLO172zaM8IDwc8dYewiQpZ9jI",
+  authDomain: "kwitter-ebe11.firebaseapp.com",
+  projectId: "kwitter-ebe11",
+  storageBucket: "kwitter-ebe11.appspot.com",
+  messagingSenderId: "757254584064",
+  appId: "1:757254584064:web:72200ea1eca033c94f65e5"
+};
